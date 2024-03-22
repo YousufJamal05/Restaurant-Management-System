@@ -9,4 +9,4 @@ Restaurant management system developed in assembly language.
 # Features
 Multiple checkouts.
 Partition between each process i.e easier to debug/Understand.
-User sign -in authenetication.
+User sign-in authentication.
